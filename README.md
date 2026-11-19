@@ -1,4 +1,4 @@
-# ECSE-429 Part B – Story Testing of REST API
+# ECSE 429 Part B Story Testing of REST API
 
 ## Project description
 
